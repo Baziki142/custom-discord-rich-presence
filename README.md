@@ -1,2 +1,3 @@
 # custom-discord-rich-presence
-Ok Ban
+
+nvm this project
