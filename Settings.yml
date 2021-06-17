@@ -5,6 +5,9 @@ Setting:
   # Type paid License here (STR_VALUE)
   License: PUT_YOUR_LICENSE_HERE
   
+  # Shrink CDRP to the System Sray after RCP is run (BOOL_VALUE)
+  SystemTray: true
+  
   # Type delay for CDRP to update (INT_VALUE)
   # Don't change if you don't know what it's for
   UpdateDelay: 15
