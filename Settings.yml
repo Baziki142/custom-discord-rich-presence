@@ -1,6 +1,10 @@
 Setting:
-  # Type your UserName
+  # Type your UserName (STR_VALUE)
   UserName: User
 
-  # Type paid License here
+  # Type paid License here (STR_VALUE)
   License: PUT_YOUR_LICENSE_HERE
+  
+  # Type delay for CDRP to update (INT_VALUE)
+  # Don't change if you don't know what it's for
+  UpdateDelay: 15
